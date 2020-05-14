@@ -173,16 +173,40 @@ select.multiple {
 
 #ds-footer-logo-link {
     text-decoration:none;
-    line-height: 40px;
+    line-height: 30px;
     cursor: pointer;
 }
 
 #ds-footer-logo {
     display: inline-block;
-    background: url('../../images/atmire-logo-small.svg');
+    background: url('../../images/dspacedirect-logo.png');
     background-repeat: no-repeat;
-    width: 110px;
-    height: 30px;
+    width: 188px;
+    height: 20px;
+}
+
+#ds-footer-right2 {
+    float: right;
+    clear: right;
+}
+
+#ds-footer-right2 span.theme-by{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#ds-footer-logo-link2 {
+    text-decoration: none;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+#ds-footer-logo2 {
+    display: inline-block;
+    background: url('../../images/lyrasis-logo.png');
+    background-repeat: no-repeat;
+    width: 129px;
+    height: 20px;
 }
 
 #ds-footer-links {
