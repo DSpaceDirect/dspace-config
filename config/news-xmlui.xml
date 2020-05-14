@@ -2,8 +2,10 @@
 <document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
 <body>
 <div id="file.news.div.news" n="news" rend="primary">
-<head>DSpace Repository</head>
-<p>DSpace is a digital service that collects, preserves, and distributes digital material. Repositories are important tools for preserving an organization&apos;s legacy; they facilitate digital preservation and scholarly communication.</p>
+<head>Welcome to the Big Tree</head>
+<p>The Big Tree is a sample <xref target="http://www.dspace.org">DSpace</xref> document repository hosted on <xref target="http://dspacedirect.org">DSpaceDirect</xref>. This site uses the DSpace "Mirage" theme, but changes the default layout of the page, adds a custom color scheme, and a custom header/footer.</p>
+<p>Although this site has a "dspacedirect.org" URL, we can work with you to ensure your site has a URL belonging to your institution.</p>
+<p>This area of introductory text can be customized to contain news or information about the site.</p>
 </div>
 </body>
 <options/>

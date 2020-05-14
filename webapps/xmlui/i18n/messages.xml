@@ -24,7 +24,7 @@
 		-->
 
 	<!-- General keys -->
-	<message key="xmlui.general.dspace_home">DSpace Home</message>
+	<message key="xmlui.general.dspace_home">Big Tree Home</message>
 	<message key="xmlui.general.search">Search</message>
 	<message key="xmlui.general.go">Go</message>
 	<message key="xmlui.general.go_home">Go to DSpace home</message>
@@ -65,7 +65,7 @@
 	<!--
 		This section is for feed syndications (RSS, atom, etc)
 	-->
-	<message key="xmlui.feed.general_description">The DSpace digital repository system captures, stores, indexes, preserves, and distributes digital research material.</message>
+	<message key="xmlui.feed.general_description">The Big Tree is a sample document repository based on DSpace open source software. This site uses the DSpace Mirage theme, but changes the default layout of the page, adds a custom color scheme, and a custom header/footer.</message>
     <message key="xmlui.feed.header">RSS Feeds</message>
 	<message key="xmlui.feed.logo_title">The Channel Image</message>
 	<message key="xmlui.feed.untitled">Untitled</message>
@@ -2047,7 +2047,7 @@
         <!-- System-wide Curation Tasks form (org.dspace.app.xmlui.aspect.administrative.CurateForm) -->
         <message key="xmlui.administrative.CurateForm.title">System Curation Tasks</message>
         <message key="xmlui.administrative.CurateForm.trail">Curation Tasks</message>
-        <message key="xmlui.administrative.CurateForm.object_label_name">Handle of DSpace Object</message>
+        <message key="xmlui.administrative.CurateForm.object_label_name">Handle of Object</message>
         <message key="xmlui.administrative.CurateForm.object_hint">Hint: Enter [your-handle-prefix]/0 to run a task across entire site (not all tasks may support this capability)</message>
         <message key="xmlui.administrative.CurateForm.task_label_name">Task</message>
     <!-- Used by Curate<DSO>Form classes also -->
@@ -2167,7 +2167,7 @@
 	<message key="xmlui.dri2xhtml.structural.contact-link">Contact Us</message>
 	<message key="xmlui.dri2xhtml.structural.feedback-link">Send Feedback</message>
 
-	<message key="xmlui.dri2xhtml.structural.head-subtitle">DSpace Repository</message>
+	<message key="xmlui.dri2xhtml.structural.head-subtitle">big tree repository</message>
 
 	<message key="xmlui.dri2xhtml.structural.profile">Profile: </message>
 	<message key="xmlui.dri2xhtml.structural.logout">Logout</message>

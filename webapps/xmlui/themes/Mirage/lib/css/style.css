@@ -14,7 +14,7 @@
 /*Font size percentages based on the tables at developer.yahoo.com/yui/fonts/ */
 h1 {
     font-size: 182%;
-    color: #1F3F5E;
+    color: #990D0D;
     text-align: justify;
 }
 
@@ -46,7 +46,7 @@ select.multiple {
 }
 
 #ds-header-wrapper {
-    background-color: #1F3F5E;
+    background-color: #990D0D;
     color: white;
     min-width: 950px;
 }
@@ -58,10 +58,10 @@ select.multiple {
 
 #ds-header-logo {
     float:left;
-    width: 48px;
+    width: 75px;
     height: 50px;
     margin-top: 10px;
-    background: url('../../images/dspace-logo-only.png');
+    background: url('../../images/tree-small.png');
     background-repeat: no-repeat;
     background-color: transparent;
     margin-right: 15px;
@@ -95,11 +95,11 @@ select.multiple {
 }
 
 #ds-trail-wrapper {
-    background-color: #b6c8d9;
+    background-color: #6A6A6A;
     margin: 0;
     padding: 0;
-    border-top: 1px solid #9cacba;
-    border-bottom: 1px solid #9cacba;
+    border-top: 1px solid #6A6A6A;
+    border-bottom: 1px solid #6A6A6A;
     min-width: 950px;
 }
 
@@ -112,12 +112,12 @@ select.multiple {
 
 #ds-trail li {
     display: inline;
-    color: #1F3F5E;
+    color: #FFFFFF;
     margin-right: 5px;
 }
 
 #ds-trail a {
-    color: #1F3F5E;
+    color: #FFFFFF;
 }
 
 #no-js-warning,
@@ -152,7 +152,7 @@ select.multiple {
 }
 
 #ds-footer {
-    border-top: 1px solid #9CACBA;
+    border-top: 1px solid #6A6A6A;
     padding-top: 10px;
     font-size: 93%;
     line-height: 1.6em;
@@ -225,13 +225,13 @@ select.multiple {
 
 
 #ds-body {
-    float: left;
+    float: right;
     width: 675px;
     padding-top: 10px;
 }
 
 #ds-options-wrapper {
-    float: right;
+    float: left;
     width: 249px;
     padding-top:10px;
 }
@@ -242,11 +242,12 @@ select.multiple {
 
 h1.ds-option-set-head {
     margin-top: 20px;
-    background-color: #f0f2f5;
+    background-color: #888888;
     padding: 3px 10px;
     border: 1px solid #d8e8eb;
     border-bottom: none;
     font-size: 108%;
+    color: #FFFFFF;
 }
 
 #ds-search-option-head{
@@ -335,8 +336,8 @@ td {
 
 .ds-button-field,
 #aspect_eperson_StartRegistration_list_registration-progress li {
-    background-color: #6d859c;
-    border: 1px solid #1F3F5E;
+    background-color: #6A6A6A;
+    border: 1px solid #373737;
     padding: 2px 5px;
     color: #FFFFFF;
     font-weight: bold;

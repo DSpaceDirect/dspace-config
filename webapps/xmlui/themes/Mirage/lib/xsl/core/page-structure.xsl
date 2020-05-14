@@ -583,6 +583,7 @@
         <div id="ds-footer-wrapper">
             <div id="ds-footer">
                 <div id="ds-footer-left">
+                    The Big Tree Repository is just a sample repository. <br/>Public Domain image of tree borrowed from <a href="http://pixabay.com/en/dead-red-old-black-green-large-31915/">pixabay</a>.<br/>
                     <a href="https://dspace.org/" target="_blank">DSpace software</a> copyright&#160;&#169;&#160;2002-2020&#160; <a href="https://lyrasis.org/" target="_blank">LYRASIS</a>
                 </div>
                 <div id="ds-footer-right">
