@@ -2,5 +2,5 @@
 <scheme>oai</scheme>
 <repositoryIdentifier>localhost</repositoryIdentifier>
 <delimiter>:</delimiter>
-<sampleIdentifier>oai:localhost:100000009/1234</sampleIdentifier>
+<sampleIdentifier>oai:localhost:123456789/1234</sampleIdentifier>
 </oai-identifier>
