@@ -583,18 +583,12 @@
         <div id="ds-footer-wrapper">
             <div id="ds-footer">
                 <div id="ds-footer-left">
-                    <a href="https://dspace.org/" target="_blank">DSpace software</a> copyright&#160;&#169;&#160;2002-2020&#160; <a href="https://lyrasis.org/" target="_blank">LYRASIS</a>
+                    <a href="http://www.dspace.org/" target="_blank">DSpace software</a> copyright&#160;&#169;&#160;2002-2016&#160; <a href="http://www.duraspace.org/" target="_blank">DuraSpace</a>
                 </div>
                 <div id="ds-footer-right">
-                    <span class="theme-by">Powered by&#160;</span>
-                    <a title="DSpaceDirect" target="_blank" href="https://dspacedirect.org" id="ds-footer-logo-link">
+                    <span class="theme-by">Theme by&#160;</span>
+                    <a title="Atmire NV" target="_blank" href="http://atmire.com" id="ds-footer-logo-link">
                     <span id="ds-footer-logo">&#160;</span>
-                    </a>
-                </div>
-                <div id="ds-footer-right2">
-                    <span class="theme-by">A service from&#160;</span>
-                    <a title="LYRASIS" target="_blank" href="https://lyrasis.org" id="ds-footer-logo-link2">
-                    <span id="ds-footer-logo2">&#160;</span>
                     </a>
                 </div>
                 <div id="ds-footer-links">
